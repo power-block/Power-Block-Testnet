@@ -12,3 +12,8 @@ Testnet of Power Block
 - Explorer : https://testnet.power-block.co/
 
 4. Click save
+
+# Faucet 
+Link : https://faucet.power-block.co/
+1. Enter the address into the wallet address form 
+2. Click submit
